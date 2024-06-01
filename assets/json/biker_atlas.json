@@ -1,0 +1,164 @@
+{
+    "frames": [
+        {
+            "filename": "biker_attack2",
+            "frame": {
+                "w": 384,
+                "h": 48,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_attack3",
+            "frame": {
+                "w": 384,
+                "h": 48,
+                "x": 0,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_attack1",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 0,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_climb",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 0,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_doublejump",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 0,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_death",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 0,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_punch",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 0,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_run_attack",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 0,
+                "y": 336
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_run",
+            "frame": {
+                "w": 288,
+                "h": 48,
+                "x": 384,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_idle",
+            "frame": {
+                "w": 192,
+                "h": 48,
+                "x": 384,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_jump",
+            "frame": {
+                "w": 192,
+                "h": 48,
+                "x": 288,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "biker_hurt",
+            "frame": {
+                "w": 96,
+                "h": 48,
+                "x": 576,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
